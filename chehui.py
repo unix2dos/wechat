@@ -69,7 +69,7 @@ def get_sender_receiver(msg):
 
 def print_msg(msg):
     msg_str = ' '.join(msg)
-    print(msg_str)
+    # print(msg_str)
     return msg_str
 
 
